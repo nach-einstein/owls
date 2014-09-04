@@ -1,4 +1,0 @@
-[submodule "owls"]
-	path = owls
-	url = https://github.com/nach-einstein/owls.wiki.git
-	branch = master
